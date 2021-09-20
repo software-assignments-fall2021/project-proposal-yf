@@ -7,7 +7,7 @@ By Yuang Fan, Linjian Li
 - This is why we would like to create an application that implements a semi IDE within the chat window, offering developers a platform to discuss visualy pleasing code with ease.
 
 ### For whom?
-The app is mainly targeted at coders who wish to discuss chunks of code.
+The app is mainly targeted at developers/coders who wish to chat and discuss code seamlessly.
 
 ### How?
 - ***User register*** - creating an account with username and password, giving back an UID
